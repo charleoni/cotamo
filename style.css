@@ -1,0 +1,68 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+:root{
+    --ancho: 100%; 
+}
+
+#headerCss{
+    height: 100px;
+    background-color: green;
+    float: left;
+    width: 100%;
+}
+
+#navCss{
+    height: 50px;
+    background-color: pink;
+    float: left;
+    width:100%;
+}
+
+#sectGlobCss{
+    float: left;
+    width: 100%;
+    height: 200px;
+}
+
+#aheadCss{
+    height: 100px;
+    background-color: blue;
+}
+
+#asideCss{
+    height: 100%;
+    float: left;
+    width: 30%;
+    background-color: brown;
+}
+
+#sectionCss{
+    height: 100%;
+    float: right;
+    width: 70%;
+    background-color: rgb(235, 52, 20);
+}
+
+#footerCss{
+    height: 100px;
+    background-color: yellow;
+    float: left;
+    width: 100%;
+}
+
+p{
+    color: white !important;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.pad{
+    padding: 10px;
+}
